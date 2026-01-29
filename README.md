@@ -1,4 +1,5 @@
 # 💬 ChatApp – Real-time Messaging Application
+🌐 **Live Demo:** https://realtime-chat-iota-seven.vercel.app
 ## 📌 Overview
 **ChatApp** is a real-time communication platform designed to help users stay connected easily and efficiently.
 The application enables fast message exchange, improves collaboration, and provides a smooth chatting experience across devices.
@@ -19,8 +20,6 @@ The application enables fast message exchange, improves collaboration, and provi
 - **Database:** MongoDB
 - **Cloud Storage:** Cloudinary for image uploads
 
-## 🌐 Live Demo
-👉 https://realtime-chat-iota-seven.vercel.app
 ## 👨‍💻 Author
 Khoi Tran Minh
 FullStack Developer
